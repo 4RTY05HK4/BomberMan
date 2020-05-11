@@ -1,0 +1,7 @@
+﻿  main.cpp
+c:\users\jakub\source\repos\ccb90cbf-gr11-repo\projekt\bomberman\bomberman\gracz.h(61): warning C4244: '=': conversion from 'float' to 'int', possible loss of data
+c:\users\jakub\source\repos\ccb90cbf-gr11-repo\projekt\bomberman\bomberman\gracz.h(62): warning C4244: '=': conversion from 'float' to 'int', possible loss of data
+c:\users\jakub\source\repos\ccb90cbf-gr11-repo\projekt\bomberman\bomberman\gracz.h(107): warning C4244: '=': conversion from 'float' to 'int', possible loss of data
+c:\users\jakub\source\repos\ccb90cbf-gr11-repo\projekt\bomberman\bomberman\gracz.h(108): warning C4244: '=': conversion from 'float' to 'int', possible loss of data
+  Bomberman.vcxproj -> C:\Users\Jakub\Source\Repos\ccb90cbf-gr11-repo\Projekt\Bomberman\x64\Debug\Bomberman.exe
+  Bomberman.vcxproj -> C:\Users\Jakub\Source\Repos\ccb90cbf-gr11-repo\Projekt\Bomberman\x64\Debug\Bomberman.pdb (Partial PDB)

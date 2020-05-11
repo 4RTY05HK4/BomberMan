@@ -1,0 +1,12 @@
+﻿  main.cpp
+c:\users\jakub\source\repos\ccb90cbf-gr11-repo\projekt\bomberman\bomberman\Gracz.h(56): warning C4244: '=': conversion from 'float' to 'int', possible loss of data
+c:\users\jakub\source\repos\ccb90cbf-gr11-repo\projekt\bomberman\bomberman\Gracz.h(57): warning C4244: '=': conversion from 'float' to 'int', possible loss of data
+c:\users\jakub\source\repos\ccb90cbf-gr11-repo\projekt\bomberman\bomberman\Gracz.h(89): warning C4244: '=': conversion from 'float' to 'int', possible loss of data
+c:\users\jakub\source\repos\ccb90cbf-gr11-repo\projekt\bomberman\bomberman\Gracz.h(90): warning C4244: '=': conversion from 'float' to 'int', possible loss of data
+  Generating code
+  12 of 1055 functions ( 1.1%) were compiled, the rest were copied from previous compilation.
+    0 functions were new in current compilation
+    2 functions had inline decision re-evaluated but remain unchanged
+  Finished generating code
+  Bomberman.vcxproj -> C:\Users\Jakub\source\repos\ccb90cbf-gr11-repo\Projekt\Bomberman\x64\Release\Bomberman.exe
+  Bomberman.vcxproj -> C:\Users\Jakub\source\repos\ccb90cbf-gr11-repo\Projekt\Bomberman\x64\Release\Bomberman.pdb (Full PDB)
